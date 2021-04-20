@@ -53,10 +53,14 @@ Cognizant India, Bangalore
   - Web Technologies: HTML5, CSS3, JavaScript, React, Redux, Vue, REST API, Visual Studio Code, Tidbits, RIO (CI/CD)
 
 Roles and Responsibilities: 
-  - User Interface Development for the Product using HTML5, CSS3, Tidbits, React, Redux
+  - User Interface Development for the Product using HTML5, CSS3, Javascript, Tidbits, React, Redux
   - Responsible for the Unit testing
   - Responsible for the cross browser compatibility 
-  - Work closely with Customers and project teams in various countries
+  - Worked closely with other business analysts, development teams and infrastructure specialists to deliver high availability solutions for critical applications.
+  - Orchestrated efficient large-scale software deployments, including testing features and correcting code.
+  - Performed software testing to uncover bugs and troubleshoot issues prior to application launch.
+  - Gathered and defined customer requirements to develop clear specifications for project plans.
+  - Contributed ideas and suggestions and delivered updates on deadlines, designs and enhancements.
   - Work closely with the team members to track and deliver the projects in time
   - Received best innovative award
 
@@ -73,7 +77,11 @@ Roles and Responsibilities:
   - User Interface Development for the Product using HTML5, CSS3, AngularJs, JQuery, Bootstrap 3
   - Responsible for the Unit testing
   - Responsible for the cross browser compatibility 
-  - Work closely with Customers and project teams in various countries
+  - Worked closely with other business analysts, development teams to deliver high availability solutions for critical applications.
+  - Orchestrated efficient large-scale software deployments, including testing features and correcting code.
+  - Performed software testing to uncover bugs and troubleshoot issues prior to application launch.
+  - Gathered and defined customer requirements to develop clear specifications for project plans.
+  - Planned and developed interfaces using that simplified overall management and offered ease-of-use.
   - Work closely with the team members to track and deliver the projects in time
   - Received best performance award
 
