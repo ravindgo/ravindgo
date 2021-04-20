@@ -41,6 +41,8 @@ Academic Qualifications:
 
 Work Experience
 
+------------
+
 Cognizant India, Bangalore
   - Designation: Senior Software Engineer
   - Project Duration: April 2018 – till date
@@ -58,6 +60,8 @@ Roles and Responsibilities:
   - Work closely with the team members to track and deliver the projects in time
   - Received best innovative award
 
+------------
+
 Prysm India, Bangalore
   - Designation: Senior Software Engineer
   - Project Duration: May 2015 – April 2018
@@ -72,6 +76,8 @@ Roles and Responsibilities:
   - Work closely with Customers and project teams in various countries
   - Work closely with the team members to track and deliver the projects in time
   - Received best performance award
+
+------------
 
 Capgemini India Pvt Ltd, Bangalore
   - Designation: Consultant P3
@@ -95,6 +101,8 @@ Roles and Responsibilities:
   - Developed various web pages in XHTML, CSS, JavaScript and jQuery
   - Maintaining the WebPages in the server using Filezilla Client
   - Received best performance award
+
+------------
 
 Regalix
   - Designation: Web Designing and Development
