@@ -5,7 +5,7 @@ A Software Engineer specializing in Javascript Technologies.
 ------------
 
 Objective:
-To achieve excellence through innovation and to pursue a professional career that is creative and challenging in the field of outsourcing and to satiate the    desire for working on cutting edge technology.
+Results-oriented and innovative Senior Software Engineer with 12+ years of experience.Forward-thinking Software Engineer with background working effectively in dynamic environments. Fluent in WebTechnologies and Javascript programming languages used to develop software. Proud team player focused on achieving project objectives with speed and accuracy. Resourceful and adaptable approach to challenges.
 
 ------------
 
