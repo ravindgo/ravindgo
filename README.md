@@ -53,7 +53,7 @@ Cognizant India, Bangalore
   - Web Technologies: HTML5, CSS3, JavaScript, React, Redux, Vue, REST API, Visual Studio Code, Tidbits, RIO (CI/CD)
 
 Roles and Responsibilities: 
-  - User Interface Development for the Product using HTML5, CSS3, Javascript, Tidbits, React, Redux, AG Grid
+  - User Interface Development for the Product using HTML5, CSS3, Javascript, Tidbits, React, Redux, AG Grid, OmniGraffle
   - Responsible for the Unit testing
   - Responsible for the cross browser compatibility 
   - Worked closely with other business analysts, development teams and infrastructure specialists to deliver high availability solutions for critical applications.
@@ -89,7 +89,7 @@ Roles and Responsibilities:
 
 Capgemini India Pvt Ltd, Bangalore
   - Designation: Consultant P3
-  - Domain: Alcatel-Lucent, France
+  - Client: Alcatel-Lucent, France
   - Project Duration: Oct 2010 – May 2015
   - Team Size: 4
   - Domain: Telecom and Networking
